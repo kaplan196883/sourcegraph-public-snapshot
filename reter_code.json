@@ -1,0 +1,6 @@
+{
+    "project_include": "**/*.go,**/*.ts,**/*.tsx,**/*.js,**/*.jsx",
+    "project_exclude": "**/testdata/**,**/__fixtures__/**,**/*mock*,**/*_gen.go,**/*.gen.go,**/mocks_temp.go,**/migrations/**,**/BUILD.bazel,**/node_modules/**,**/*.har.gz,**/*.mmdb,**/vendor/**,**/*_test.go,**/*.test.ts,**/*.test.tsx,**/*.spec.ts,**/*.spec.tsx,**/dist/**,**/build/**",
+    "tools_available": "full",
+    "rag_embedding_model": "flax-sentence-embeddings/st-codesearch-distilroberta-base"
+}
